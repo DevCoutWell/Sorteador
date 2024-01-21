@@ -17,7 +17,7 @@ buttonSorter.addEventListener("click", function(){
         // usar alert para informar qual item foi sorteado
         const itemSorteado = arrlista[numsorteado];
         
-        alert(`O item sorteado foi: ${itemSorteado}!`)
+        alert(`O item sorteado foi: ${itemSorteado.trim()}!`)
 
 
     }
