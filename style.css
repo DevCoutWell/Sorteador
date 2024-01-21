@@ -54,6 +54,7 @@ main{
 main p{
     font-size: 1.25rem;
     font-weight: bold;
+    user-select: none;
 }
 
 textarea{
