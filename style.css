@@ -80,9 +80,15 @@ button{
     color: #fff;
     font-size: 0.938rem;
     font-weight: bold;
+    transition: 1s;
 }
 
 
+button:hover{
+
+  background-color: rgba(117, 117, 255, 0.764);
+  
+}
 
 footer{
     
